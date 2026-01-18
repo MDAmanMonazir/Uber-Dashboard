@@ -84,4 +84,4 @@ The dataset includes comprehensive information on hundreds of thousands of rides
 Show what the dashboard looks like.
 
 *Example:* 
-![Dashboard Preview](https://github.com/username/repo/assets/uber_dashboard_preview.png)
+![Dashboard Preview](https://github.com/MDAmanMonazir/Uber-Dashboard/blob/main/Screenshot%20of%20Dashboard.png?raw=true)
