@@ -1,8 +1,5 @@
 # Uber-Dashboard
 
-## Recommended Structure and Order
-
-### 1. Project Title / Headline
 
 🚗 **Urban Mobility Insights: Uber Ride Analytics Dashboard**
 
